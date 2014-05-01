@@ -1,0 +1,16 @@
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+
+@import 'sass-bootstrap/lib/bootstrap';
+
+.navbar{
+    margin-bottom:0;
+}
+
+.formContainer{
+    position: absolute;
+    z-index: 2;
+    top: -337px;
+    right: 0;
+    background: white;
+    padding: 20px;
+}
